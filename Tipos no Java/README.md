@@ -1,4 +1,4 @@
-#Tipos Primitivos
+# Tipos Primitivos
 
 No Java existem 8 tipos primitivos disponíveis: boolean, char, byte, short, int, long, float e double.
 
